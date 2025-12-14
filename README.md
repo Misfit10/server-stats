@@ -24,4 +24,4 @@ chmod +x server-stats.sh
 
 ## Project URL
 
-https://github.com/Misfit10/server-stats
+https://roadmap.sh/projects/server-stats
