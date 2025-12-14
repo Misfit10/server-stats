@@ -22,3 +22,6 @@ Clone the repository and run the following commands:
 chmod +x server-stats.sh
 ./server-stats.sh
 
+## Project URL
+
+https://github.com/Misfit10/server-stats
